@@ -1,0 +1,9 @@
+performance_metric,excellent_range,good_range,average_range,poor_range
+Performance Ratio (%),85-90,80-85,75-80,<75
+Capacity Utilization Factor (%),25-30,22-25,18-22,<18
+Plant Load Factor (%),25-30,22-25,18-22,<18
+Availability (%),98-100,95-98,90-95,<90
+Grid Curtailment (%),0-2,2-5,5-10,>10
+O&M Cost (Rs/MWh),0.5-1.0,1.0-1.5,1.5-2.5,>2.5
+Land Use (acres/MW),4.0-4.5,4.5-5.0,5.0-6.0,>6.0
+Project Cost (Rs Cr/MW),4.0-4.5,4.5-5.5,5.5-7.0,>7.0

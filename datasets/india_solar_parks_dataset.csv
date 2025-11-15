@@ -1,0 +1,13 @@
+park_name,state,planned_capacity_mw,operational_capacity_mw,year_commissioned,land_area_acres,estimated_investment_crores,performance_ratio_percent,capacity_utilization_factor_percent,implementing_agency,land_acquisition_method,transmission_connectivity
+Bhadla Solar Park,Rajasthan,2245,2245,2020,14000,10000,78.5,22.5,RSDCL,Government Land,765kV
+Pavagada Solar Park,Karnataka,2050,2050,2019,13000,16500,82.1,24.8,KSPDCL,Government Land,400kV
+Kurnool Ultra Mega Solar Park,Andhra Pradesh,1000,1000,2017,5932,7000,79.8,21.2,APSPCL,Private Lease,400kV
+NP Kunta Solar Park,Andhra Pradesh,978,978,2021,5900,4500,80.2,23.1,APSPCL,Private Lease,400kV
+Rewa Ultra Mega Solar,Madhya Pradesh,750,750,2018,3750,4500,81.5,23.9,RUMSL,Government Land,400kV
+Charanka Solar Park,Gujarat,690,690,2012,3450,1000,76.2,19.8,GPCL,Government Land,220kV
+Kamuthi Solar Power Project,Tamil Nadu,648,648,2017,2500,4550,77.9,20.5,Adani Green,Private Purchase,400kV
+Ananthapuramu-I Solar Park,Andhra Pradesh,1500,1150,2019,7500,10500,79.1,22.8,APSPCL,Government Land,400kV
+Kadapa Solar Park,Andhra Pradesh,1000,250,2020,5000,4500,78.8,21.9,APSPCL,Mixed,400kV
+Ananthapuramu-II Solar Park,Andhra Pradesh,500,500,2019,2500,2800,80.5,23.4,APSPCL,Government Land,220kV
+Dholera Solar Park Phase-I,Gujarat,1000,300,2020,5000,6000,77.3,20.1,SECI,Government Land,765kV
+Radhnesada Solar Park,Gujarat,700,500,2019,3500,3500,79.4,22.2,GPCL,Government Land,400kV
